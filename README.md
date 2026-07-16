@@ -122,13 +122,13 @@ Customers in the High Income segment contribute almost **22M revenue**, indicati
 
 ## Credit Card Transaction Dashboard
 
-[Transaction Dashboard](https://github.com/suryavhi704/Credit-Card-Financial-Analysis-Dashboard/blob/main/Transaction%20Dashboard.png?raw=true)
+![Transaction Dashboard](https://github.com/suryavhi704/Credit-Card-Financial-Analysis-Dashboard/blob/main/Transaction%20Dashboard.png?raw=true)
 
 ---
 
 ## Credit Card Customer Dashboard
 
-[Customer Dashboard](https://github.com/suryavhi704/Credit-Card-Financial-Analysis-Dashboard/blob/main/Customer%20Dashboard.png?raw=true)
+![Customer Dashboard](https://github.com/suryavhi704/Credit-Card-Financial-Analysis-Dashboard/blob/main/Customer%20Dashboard.png?raw=true)
 
 ---
 
